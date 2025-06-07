@@ -9,8 +9,6 @@ public class Dog {
     public Dog() {
     }
 
-    public Dog() {
-    }
 
     @Override
     public String toString() {
